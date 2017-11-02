@@ -1,7 +1,1 @@
 # hello-dear
-
-hi dear!
-
-
-
-
